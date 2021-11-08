@@ -30,7 +30,7 @@
   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luis-rodrigues-448a3b209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
+ ![Snake animation](https://github.com/LuisFernando-hub/LuisFernando-hub/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
