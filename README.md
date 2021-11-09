@@ -1,4 +1,4 @@
-### Oiii eu sou o Luis Fernando, criador de conteúdo de programação e tecnologia!
+### Oi eu sou o Luis Fernando, criador de conteúdo de programação e tecnologia!
 
 
 - 🔭 Hoje eu trabalho Full Stack
