@@ -1,5 +1,7 @@
-### Oi eu sou o Luis Fernando, criador de conteúdo de programação e tecnologia!
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 
+
+### Oi eu sou o Luis Fernando, criador de conteúdo de programação e tecnologia!
 
 - 🔭 Hoje eu trabalho Full Stack
 - 🌱 Estou estudando Analise e Desenvolvimento de Sistemas
@@ -15,7 +17,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Luis-pic" height="150" style="border-radius:50px;" src="https://gifman.net/wp-content/uploads/2019/06/deadpool-02.gif">
+<!--   <img align="right" alt="Luis-pic" height="150" style="border-radius:50px;" src="https://gifman.net/wp-content/uploads/2019/06/deadpool-02.gif"> -->
 </div>
 <!--   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
   
