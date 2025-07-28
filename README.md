@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 
 
-### Oi eu sou o Luis Fernando, criador de conteúdo de programação e tecnologia!
+### Hi, I'm Luis Fernando, a programming and technology content creator!
 
-- 🔭 Hoje eu trabalho Full Stack
-- 🌱 Estou estudando Analise e Desenvolvimento de Sistemas
+- 🔭 Today I work Full Stack
+- 🌱 I finished my degree in Systems Analysis and Development.
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/LuisFernando-hub">
